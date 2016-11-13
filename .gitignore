@@ -1,0 +1,2 @@
+git remote add origin https://github.com/hawx116/kek.git
+git push -u origin master
