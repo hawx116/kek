@@ -1,1 +1,2 @@
-https://sv.clantools.us/integrations/battles/report?provider=asia&tz=et&service=slack&clan_id=2000006131
+//https://sv.clantools.us/integrations/battles/report?provider=asia&tz=et&service=slack&clan_id=2000006131
+GET /repos/hawx116/kek/hooks
